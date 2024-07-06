@@ -1,7 +1,3 @@
 # Noise Monitor
 
-First step is to check the device index.
-
-```
-py -m sounddevice
-```
+https://hackmd.io/xi3p04WMTY6HvkPhGZO2TQ?view=
